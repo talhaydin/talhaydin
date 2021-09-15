@@ -29,6 +29,11 @@
 <br/>
 <br>
 
+### Projects you should check out:
+[Up and Away](https://github.com/talhaydin/upandaway).
+[React Food Recipes](https://github.com/talhaydin/foodrecipes_react).
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaydin)](https://github.com/anuraghazra/github-readme-stats)
 
 
