@@ -3,7 +3,6 @@
 
 ## Introduction
 - 🧬 I'm an ambitious software developer who's trying to learn something every day.
-- 💎 Currently I'm trying to get better at React.
 - ⚡ I'm bilingual in English and Turkish.
 - 🏋️ Workout everyday!
 
