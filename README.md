@@ -28,11 +28,6 @@
 <br/>
 <br>
 
-### Projects you should check out:
-
-1) [moviesapp](https://github.com/talhaydin/rtkmovies). <br> <br/>
-2) [React Food Recipes](https://github.com/talhaydin/foodrecipes_react).
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaydin)](https://github.com/anuraghazra/github-readme-stats)
