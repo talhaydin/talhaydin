@@ -8,7 +8,7 @@
 
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="26px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" />]( https://www.linkedin.com/in/mtalha-aydin/)
+[<img align="left" alt="LinkedIn" width="26px" src="https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp" />]( https://www.linkedin.com/in/mtalha-aydin/)
 [<img align="left" alt="outlook" width="26px" src="https://www.freepnglogos.com/uploads/logo-outlook/transparent-outlook-icon-2.png" />](mailto:mt.aydin@outlook.com)
 [<img align="left" alt="gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />](mailto:talhaaydinn@gmail.com) 
 
